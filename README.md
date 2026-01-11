@@ -14,11 +14,19 @@ Research-based experiments
 All projects are built using Python and common Deep Learning libraries.
 
 🛠 Technologies & Tools
+
 Python
+
 TensorFlow
+
 Keras
+
 PyTorch
+
 NumPy
+
 Pandas
+
 OpenCV
+
 Matplotlib
